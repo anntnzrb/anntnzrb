@@ -2,8 +2,7 @@
 
 # annt's
 
-- my personal projects are @ my
-  [<img alt="GitLab Page" width="24px" src="https://about.gitlab.com/images/press/press-kit-icon.svg" />][gitlabpage] page
-  - some projects are mirrored here
+- personal projects @ [<img alt="GitLab Page" width="24px" src="https://about.gitlab.com/images/press/press-kit-icon.svg" />][gitlabpage]
+  - some are mirrored here
 
 [gitlabpage]: https://www.gitlab.com/anntnzrb
