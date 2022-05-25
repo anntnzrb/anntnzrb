@@ -1,8 +1,7 @@
-<!-- markdownlint-disable MD013 MD033 -->
+# <div align="center">annt's 🚮</div>
 
-# annt's
+- 📜 personal projects hosted @ [sr.ht/~anntnzrb](https://git.sr.ht/~anntnzrb)
 
-- personal projects @ [<img alt="GitLab Page" width="24px" src="https://about.gitlab.com/images/press/press-kit-icon.svg" />][gitlabpage]
-  - some are mirrored here
-
-[gitlabpage]: https://www.gitlab.com/anntnzrb
+- 💬 of interest...
+  - 🏡 [`~/.files/`](https://git.sr.ht/~anntnzrb/_nixrice)
+  - 🗡️ [`~/.emacs.d/`](https://git.sr.ht/~anntnzrb/.emacs.d/)
