@@ -2,4 +2,4 @@
 
 - 💬 of interest...
   - 🏡 [`~/.files/`](https://github.com/anntnzrb/_nixrice)
-  - ✍️ [`~/.emacs.d/`](https://github.com/anntnzrb/.emacs.d/)
+  - ✍️ [`~/.emacs.d/`](https://github.com/anntnzrb/.emacs.d/) / [`~/.doom.d/`](https://github.com/anntnzrb/.doom.d/)
